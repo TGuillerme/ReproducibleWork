@@ -19,7 +19,7 @@ We will be looking at three main aspects:
 
 ### Use your own project!
 
-For this workshop we will be using the work of Elle Quinn that's wrapping up her masters project on the global distribution of new diversity metrics. In very brief: Elle is looking how different diversity metrics (species richness, functional diversity and traits innovation and elaboration) are distributed across the globe for all birds species and whether some spatial distribution patterns correlate with human activities. If you want to know more, please ask Elle directly.
+For this workshop we will be using the work of Elle Quinn that's wrapping up her masters project on the global distribution of new diversity metrics. In very brief: Elle is looking how different diversity metrics (species richness, functional diversity and traits innovation and elaboration) are distributed across the globe for all birds species and whether some spatial distribution patterns correlate with human activities.
 
 For the purpose of this workshop though, we won't need to know much of the details and the methods used in her excellent work. Here we will use a version of her work repository that we slightly modified for illustrating the points we want to teach. **We really encourage you to apply what we are going to learn today directly to your own project or, to a project you are thinking of starting so you get the good habits early**. If you don't have a project you want/can currently work on, you can use a simplified copy of Elle's work [here](https://github.com/TGuillerme/ReproducibleWork/tree/main/Example_repo/). If you don't have a laptop or just want to listen, you can pair up with a colleague in the room!
 
